@@ -109,7 +109,7 @@ def main():
         else:
             try:
                 cmmnd = cnc.split()[0]
-                print("Method: [ " + cmmnd + " ] BONUMMASTER PH!")
+                print("Method: [ " + cmmnd + " ] BONUMMASTER PH")
             except IndexError:
                 pass
                 
